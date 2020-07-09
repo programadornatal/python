@@ -1,4 +1,4 @@
-﻿![Image](images/Python_logo_and_wordmark.svg.png)
+﻿![Image](Python_logo_and_wordmark.svg.png)
  
  # Python3
 These examples were developed in the course of the Alura platform
